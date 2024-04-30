@@ -102,15 +102,3 @@ dist
 
 # TernJS port file
 .tern-port
-
-# macOS
-.DS_Store
-
-# python
-pycache/
-
-# Ignore .husky for new contributors using lefthook while maintaining
-
-# VSCode
-.vscode/launch.json
-packages/protocol/confi
