@@ -92,4 +92,3 @@ dist
 .vuepress/dist
 
 # Serverless directories
-.serverless/
